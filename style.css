@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* -- -----------------------------NAV START--------------------------------- -- */
+.navbar{
+    background-color: rgb(213, 213, 65);
+}
+#navtitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 10px;
+}
